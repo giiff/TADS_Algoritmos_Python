@@ -17,3 +17,8 @@ Para instalar o ambiente usando Anaconda os passos são os seguintes:
 `git clone https://github.com/giiff/algoritmos_python.git`
 7. Rode o servidor Python-Notebook de DENTRO do diretório clonado:
 `jupyter-notebook`
+
+
+Se preferir não instalar o ambiente e usar on-line no [Google Colab](https://colab.research.google.com) basta colar o endereço GitHub: https://github.com/giiff/algoritmos_python.git como mostra a figura abaixo:
+
+![](https://github.com/giiff/algoritmos_python/blob/master/figuras/googlecolab.png)
