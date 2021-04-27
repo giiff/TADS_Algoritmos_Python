@@ -11,8 +11,8 @@ Para instalar o ambiente usando Anaconda os passos são os seguintes:
 `conda create -n algoritmos python=3.6`
 3. Ativação do ambiente criado:
 `conda activate algoritmos`
-4. Instalação do git e Python-Notebook no ambiente algoritmos
-`conda install -c conda-forge jupyter git`
+4. Instalação do git, Python-Notebook e biblioteca plotly no ambiente algoritmos
+`conda install -c conda-forge jupyter git plotly -y`
 5. Clone este repositório
 `git clone https://github.com/giiff/algoritmos_python.git`
 7. Rode o servidor Python-Notebook de DENTRO do diretório clonado:
